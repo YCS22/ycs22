@@ -1,14 +1,3 @@
-<h1 align="center">Hi 👋, I'm Yiğitcan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ycs22&label=Profile%20views&color=0e75b6&style=flat" alt="ycs22" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ycs22" alt="ycs22" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://yigitcansezek.vercel.app/](https://yigitcansezek.vercel.app/)
-
-- 💬 Ask me about **react.js, nest.js**
-
-- 📫 How to reach me **yigitcansezek@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@yigitcansezek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yigitcansezek" height="30" width="40" /></a>
@@ -20,5 +9,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ycs22&show_icons=true&locale=en&layout=compact" alt="ycs22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ycs22&show_icons=true&locale=en" alt="ycs22" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ycs22&" alt="ycs22" /></p>
